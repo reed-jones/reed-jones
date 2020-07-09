@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Phase](https://phased.dev/), A front end meta-framework for creating monolithic _**Laravel ❤️ Vue.js**_ single page apps.
+- 🌱 I’m currently learning Svelte & GraphQL, but also digging deeper into both Laravel & Vue.js.
+- 👯 I’m looking to collaborate on Phase, or any fun project really. I have several that I think are neat, but I'm sure you do to!
+- 🤔 I’m looking for help with improving the Phase webpack/laravel-mix plugin (or finding an alternative approach)
+- 💬 Ask me about one of my projects :) I have the [Neocities PHP API](https://github.com/reed-jones/Neocities-php), a [renderless Vue3 WebRTC Chat Components](https://github.com/reed-jones/courant), a [custom expermintal React/Vue mashup](https://github.com/reed-jones/reedacted), and [other](https://github.com/reed-jones/v-marked) [random](https://github.com/reed-jones/minesweeper_js) [things](https://github.com/reed-jones/hatchet).
+- 📫 How to reach me: Open an issue on one of my projects! (or [reedjones@reedjones.com](mailto:reedjones@reedjones.com), [@rj0nz](https://twitter.com/rj0nz), [reedjones.com](https://www.reedjones.com/)
+- ⚡ Fun fact: I even do non computer things sometimes.
+
 <!--
 **reed-jones/reed-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
