@@ -43,4 +43,6 @@
 </code>
 
 ## Stats
-![Reed's stats](https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true)
+![Reed's stats](https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30)
+<!-- Dark mode -->
+<!-- ![Reed's stats](https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
