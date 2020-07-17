@@ -43,9 +43,9 @@
 </code>
 
 ## Stats ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30" /></p>
 
-![Reed's stats](https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30)
-![Biz Card](https://raw.githubusercontent.com/reed-jones/reed-jones/master/images/reed-jones-1x.svg)
+<p align="center"><img src="https://raw.githubusercontent.com/reed-jones/reed-jones/master/images/reed-jones-1x.svg" /></p>
 
 
 
