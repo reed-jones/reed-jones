@@ -45,7 +45,7 @@
 ## Stats ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)
 
 ![Reed's stats](https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30)
-![Biz Card](/images/reed-jones-1x.svg)
+![Biz Card](https://raw.githubusercontent.com/reed-jones/reed-jones/master/images/reed-jones-1x.svg)
 
 
 
