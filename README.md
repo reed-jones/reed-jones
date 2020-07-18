@@ -47,6 +47,8 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/reed-jones/phase/)
 [![GitHub followers](https://img.shields.io/github/followers/reed-jones.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reed-jones?tab=followers)
 
+Checkout more stats if you curious on [Sourcerer](https://sourcerer.io/reed-jones) & [GHUser](https://ghuser.io/reed-jones)
+
 
 
 
