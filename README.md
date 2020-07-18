@@ -42,8 +42,15 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg">
 </code>
 
-## Stats ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30" /></p>
+## Stats 
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/reed-jones/phase/)
+[![GitHub followers](https://img.shields.io/github/followers/reed-jones.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reed-jones?tab=followers)
+
+
+
+
+<p align="center"><img src="https://j0nz-github-stats.vercel.app/api?username=reed-jones&show_icons=true&line_height=30" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/reed-jones/reed-jones/master/images/reed-jones-1x.svg" /></p>
 
