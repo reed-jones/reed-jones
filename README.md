@@ -43,9 +43,11 @@
 </code>
 
 ## Stats 
-![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/reed-jones/phase/)
-[![GitHub followers](https://img.shields.io/github/followers/reed-jones.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reed-jones?tab=followers)
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=reed-jones.reed-jones)&nbsp;
+[![Open Source ❤️](https://badgen.net/badge/Open%20Source%20/%E2%9D%A4/blue?icon=github)](https://github.com/reed-jones/phase/)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/reed-jones.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/reed-jones?tab=followers)&nbsp;
+<a href="https://dev.to/reedjones"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Reed Jones's DEV Profile" height="22" width="22"></a>
+
 
 Checkout more stats if you curious on [Sourcerer](https://sourcerer.io/reed-jones) & [GHUser](https://ghuser.io/reed-jones)
 
